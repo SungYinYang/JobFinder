@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\steve\Documents\Laiproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3153052681.index
+\jupiter\src\main\java
