@@ -36,3 +36,7 @@ jupiter/target/classes/external/MonkeyLearnClient.class
 .metadata/.plugins/org.eclipse.core.resources/.projects/jupiter/.syncinfo.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/jupiter/.markers.snap
 .metadata/.log
+*.snap
+*.resources
+*.log
+*.xml
