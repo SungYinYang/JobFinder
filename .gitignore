@@ -40,3 +40,8 @@ jupiter/target/classes/external/MonkeyLearnClient.class
 *.resources
 *.log
 *.xml
+.metadata/.plugins/org.eclipse.wst.server.core/tmp0/publish.txt
+.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+.metadata/.plugins/org.eclipse.jdt.core/1493672193.index
+.metadata/.log

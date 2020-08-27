@@ -26,6 +26,7 @@ import entity.Item;
 public class GitHubClient {
 	//github client has not position in Taipei
 	//lat is for the description
+	//https://www.google.com/search?q=github+api&oq=github+api&aqs=chrome..69i57j0l5j69i60l2.1431j0j4&sourceid=chrome&ie=UTF-8
 	private static final String URL_TEMPLATE = "https://jobs.github.com/positions.json?description=%s&lat=%s&long=%s";
 	private static final String DEFAULT_KEYWORD = "developer";
 	
