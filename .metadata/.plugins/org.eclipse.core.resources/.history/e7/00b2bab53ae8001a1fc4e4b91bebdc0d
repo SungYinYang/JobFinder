@@ -24,8 +24,7 @@ import entity.Item.ItemBuilder;
 import entity.Item;
 
 public class GitHubClient {
-	//github client has not position in Taipei
-	//lat is for the description
+	//github client has not positionin taipei
 	private static final String URL_TEMPLATE = "https://jobs.github.com/positions.json?description=%s&lat=%s&long=%s";
 	private static final String DEFAULT_KEYWORD = "developer";
 	
@@ -98,7 +97,7 @@ public class GitHubClient {
 		List<List<String>> keywords = MonkeyLearnClient.extractKeywords(descriptionArray); // Call MonkeyLearn API.
 		for (int i = 0; i < keywords.size(); ++i) {
 			List<String> list = keywords.get(i);
-			// Why do we use HashSet but not List here?  //to avoid getting same item
+			// Why do we use HashSet but List here?
 			Set<String> set = new HashSet<String>(list);
 			itemList.get(i).setKeywords(set);
 		}
@@ -106,6 +105,7 @@ public class GitHubClient {
 		return itemList;
 	}
 
+	
 	private String getStringFieldOrEmpty(JSONObject obj, String field) {
 		return obj.isNull(field) ? "" : obj.getString(field);
 	}
