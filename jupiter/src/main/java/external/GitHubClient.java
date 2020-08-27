@@ -24,6 +24,7 @@ import entity.Item.ItemBuilder;
 import entity.Item;
 
 public class GitHubClient {
+	//github client has not positionin taipei
 	private static final String URL_TEMPLATE = "https://jobs.github.com/positions.json?description=%s&lat=%s&long=%s";
 	private static final String DEFAULT_KEYWORD = "developer";
 	
@@ -79,6 +80,7 @@ public class GitHubClient {
 
 			// We need to extract categories from description since GitHub API
 			// doesn't return keywords.
+			//
 			if (object.getString("description").equals("\n")) {
 				descriptionList.add(object.getString("title"));
 			} else {
