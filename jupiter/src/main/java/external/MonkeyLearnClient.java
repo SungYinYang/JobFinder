@@ -36,7 +36,7 @@ public class MonkeyLearnClient {
 		MonkeyLearnResponse response;
 		try {
 			//System.out.println("text size" + text.length);
-			response = ml.extractors.extract("ex_YCya9nrn", text, extraParams);
+			response = ml.extractors.extract("ex_YCya9nrn", text, extraParams);  //this would get exception if there is no jobs near by
 			JSONArray resultArray = response.arrayResult;
 			return getKeywords(resultArray);
 		} catch (MonkeyLearnException e) {// it’s likely to have an exception
