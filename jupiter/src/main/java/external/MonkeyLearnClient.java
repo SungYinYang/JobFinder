@@ -26,6 +26,7 @@ public class MonkeyLearnClient {
 		}
 	}
 
+    //this part could get wrong if no jobs near by
 	public static List<List<String>> extractKeywords(String[] text) {
 		// Use the API key from your account
 		MonkeyLearn ml = new MonkeyLearn(API_KEY);
