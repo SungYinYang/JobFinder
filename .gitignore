@@ -16,3 +16,4 @@ jupiter/target/classes/external/MonkeyLearnClient.class
 *.index
 *.txt
 *.dat
+*.class
