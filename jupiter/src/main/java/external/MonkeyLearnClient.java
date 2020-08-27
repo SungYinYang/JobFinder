@@ -15,7 +15,7 @@ public class MonkeyLearnClient {
 	private static final String API_KEY = "765efcc88c4caca6e41f3df45e1529d62c64bc62";// make sure change it to your api key.
               	public static void main(String[] args) {
 		
-        //this part would not be exectute (experiment)
+        //this part would not be execute (experiment)
 		String[] textList = {
 				"Elon Musk has shared a photo of the spacesuit designed by SpaceX. This is the second image shared of the new design and the first to feature the spacesuit’s full-body look."};
 		List<List<String>> words = extractKeywords(textList);
@@ -27,7 +27,7 @@ public class MonkeyLearnClient {
 		}
 	}
 
-    //this part could get wrong if no jobs near by
+    //this part could get wrong if no jobs nearby
 	public static List<List<String>> extractKeywords(String[] text) {
 		// Use the API key from your account
 		MonkeyLearn ml = new MonkeyLearn(API_KEY);
