@@ -5,6 +5,8 @@
  This would be the original website page 
  <img src=“https://github.com/SungYinYang/JobFinder/blob/master/img/login%20page.png”>
  
+ ![Image](https://github.com/SungYinYang/JobFinder/blob/master/img/login%20page.png)
+ 
  New User would require to create a new user account
   <img src=“https://github.com/SungYinYang/JobFinder/blob/master/img/Create%20User%20and%20Password.png”>
 
