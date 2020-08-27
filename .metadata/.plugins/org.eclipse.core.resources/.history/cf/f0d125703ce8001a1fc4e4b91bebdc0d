@@ -31,7 +31,7 @@ public class MonkeyLearnClient {
 		// Use the API key from your account
 		MonkeyLearn ml = new MonkeyLearn(API_KEY);
 
-		// Use the keyword extractors
+		// Use the keyword extractor
 		ExtraParam[] extraParams = { new ExtraParam("max_keywords", "3") };
 		MonkeyLearnResponse response;
 		try {

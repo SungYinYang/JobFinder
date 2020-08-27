@@ -13,3 +13,6 @@ jupiter/target/classes/external/MonkeyLearnClient.class
 *.txt
 .metadata/.plugins/org.eclipse.core.resources/.history/e1/802cd3503ce8001a1fc4e4b91bebdc0d
 .metadata/.log
+*.index
+*.txt
+*.dat
