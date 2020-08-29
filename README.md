@@ -1,9 +1,14 @@
 # JobFinder
  This is a web app that helps people search the nearby job based on their locations and previous jobs search.
- It has simple function of login and create user.
+
+ New user can create account and login to the system.
+ Users are able to store their favorite jobs.
+ The web would based on users favorite jobs to recommend jobs for them.
  It use github Job API to search nearby jobs.
+ Content based recommednation algorithm were used to recommend user's nearby job.
  
- This would be the original website page 
+ User would need an account to login to the page.
+ The following image would be the original website page 
 ![Image](https://github.com/SungYinYang/JobFinder/blob/master/img/login%20page.png)
  
  New User would require to create a new user account
