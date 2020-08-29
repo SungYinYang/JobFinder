@@ -16,7 +16,7 @@
 
 
 Tech set:
-Use Java Servelet to implement the RESTful endpoints
-Use MAMp to store all infomration to MySQL database
-Used Javascript, HTML, CSS, and Ajax to design the user interface design and connect the front/back-end.
-Used Amazon Web Service EC2 to deploy the local app to the cloud.
+Use Java Servelet to implement the RESTful endpoints  
+Use MAMp to store all infomration to MySQL database  
+Used Javascript, HTML, CSS, and Ajax to design the user interface design and connect the front/back-end.  
+Used Amazon Web Service EC2 to deploy the local app to the cloud.  
