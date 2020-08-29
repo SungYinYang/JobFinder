@@ -20,6 +20,18 @@
  ![Image](https://github.com/SungYinYang/JobFinder/blob/master/img/Website%20image%20if%20not%20job%20nearby.png)
 
 
+<h1> <b> Hill Statement</b> </h1>
+
+<b>Who-</b><br>
+Any users that wants to find nearby jobs.<br>
+<b>What-</b><br>
+A web app that helps people search the nearby job based on their locations and previous jobs search.<br>
+<b>Wow Factor-</b><br>
+ New user can create account and login to the system.
+ The web would based on users search history to recommend jobs for them.
+ Content based recommednation algorithm were used to recommend user's nearby job.<br>
+<br/>
+
 # Technology Used
 Use Java Servelet to implement the RESTful endpoints  
 Use Mamp to store all infomration to MySQL database  
