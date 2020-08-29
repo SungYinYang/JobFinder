@@ -1,11 +1,11 @@
 # JobFinder
  This is a web app that helps people search the nearby job based on their locations and previous jobs search.
 
- New user can create account and login to the system.
- Users are able to store their favorite jobs.
- The web would based on users favorite jobs to recommend jobs for them.
- It use github Job API to search nearby jobs.
- Content based recommednation algorithm were used to recommend user's nearby job.
+ New user can create account and login to the system.  
+ Users are able to store their favorite jobs.  
+ The web would based on users favorite jobs to recommend jobs for them.  
+ It use github Job API to search nearby jobs.  
+ Content based recommednation algorithm were used to recommend user's nearby job.  
  
  User would need an account to login to the page.
  The following image would be the original website page 
@@ -27,8 +27,8 @@ Any users that wants to find nearby jobs.<br>
 <b>What-</b><br>
 A web app that helps people search the nearby job based on their locations and previous jobs search.<br>
 <b>Wow Factor-</b><br>
- New user can create account and login to the system.
- The web would based on users search history to recommend jobs for them.
+ New user can create account and login to the system.  
+ The web would based on users search history to recommend jobs for them.  
  Content based recommednation algorithm were used to recommend user's nearby job.<br>
 <br/>
 
