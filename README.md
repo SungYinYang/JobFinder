@@ -15,8 +15,8 @@
  ![Image](https://github.com/SungYinYang/JobFinder/blob/master/img/Website%20image%20if%20not%20job%20nearby.png)
 
 
-Tech set:
+# Technology Used
 Use Java Servelet to implement the RESTful endpoints  
-Use MAMp to store all infomration to MySQL database  
+Use Mamp to store all infomration to MySQL database  
 Used Javascript, HTML, CSS, and Ajax to design the user interface design and connect the front/back-end.  
-Used Amazon Web Service EC2 to deploy the local app to the cloud.  
+Used Amazon Web Service EC2 to deploy the local app to the cloud. 
