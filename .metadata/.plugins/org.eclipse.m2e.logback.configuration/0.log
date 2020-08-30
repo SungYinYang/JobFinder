@@ -1144,3 +1144,7 @@
 2020-08-30 16:13:31,587 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\steve\Documents\JobFinder\jupiter\src\main\resources
 2020-08-30 16:13:31,588 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2020-08-30 16:13:31,588 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\steve\Documents\JobFinder\jupiter\src\test\resources
+2020-08-30 16:13:57,033 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-30 16:13:57,033 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\steve\Documents\JobFinder\jupiter\src\main\resources
+2020-08-30 16:13:57,034 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-30 16:13:57,034 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\steve\Documents\JobFinder\jupiter\src\test\resources

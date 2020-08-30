@@ -84,3 +84,6 @@ jupiter/target/classes/external/MonkeyLearnClient.class
 .metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
 .metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml
 .metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs
+.metadata/.log
