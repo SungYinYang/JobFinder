@@ -91,3 +91,10 @@ jupiter/target/classes/external/MonkeyLearnClient.class
 .metadata/.log
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
 .metadata/.log
+.metadata/.plugins/org.eclipse.m2e.core/nexus/da6e1d62265eb2704b034f78acfb0f06/segments_1m
+*.resources
+*.xmi
+*.cfs
+.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_9
+*.del
+.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_f
