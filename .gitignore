@@ -98,3 +98,6 @@ jupiter/target/classes/external/MonkeyLearnClient.class
 .metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_9
 *.del
 .metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_f
+*.txt
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt
