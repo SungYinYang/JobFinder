@@ -35,7 +35,6 @@ public class Recommendation {
 		
 		//what is this part doing?
 		//what is this part doing?
-		//what is this part doing?
 		List<Entry<String, Integer>> keywordList = new ArrayList<>(allKeywords.entrySet());
 		Collections.sort(keywordList, (Entry<String, Integer> e1, Entry<String, Integer> e2) -> {
 			return Integer.compare(e2.getValue(), e1.getValue());
