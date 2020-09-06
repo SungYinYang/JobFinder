@@ -15,6 +15,7 @@ import external.GitHubClient;
 
 public class Recommendation {
 
+	/** **/
 	public List<Item> recommendItems(String userId, double lat, double lon) {
 		List<Item> recommendedItems = new ArrayList<>();
 
