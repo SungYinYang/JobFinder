@@ -25,10 +25,7 @@ public class Register extends HttpServlet {
     }
 
 //asdfasdfdsafd
-  //asdfasdfdsafd
-  //asdfasdfdsafd
-  //asdfasdfdsafd
-  //asdfasdfdsafd
+ //asdfasdfdsafd
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
